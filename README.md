@@ -176,7 +176,7 @@ El repositorio contiene únicamente el código, el notebook y los resultados nec
 tarea-celeba/
 │
 ├── README.md
-├── CelebA_transfer_learning.ipynb
+├── DesbloqueoFacial.ipynb
 │
 └── resultados/
     ├── curva_accuracy.png
